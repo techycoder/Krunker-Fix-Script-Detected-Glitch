@@ -2,7 +2,7 @@
 <h3>Features</h3>
 Fixes Aimbot - Fps - Aim Range - Aim Position - Bunny Hop (slide jump) - Unlimited Ammo - Auto Reload - No Recoil - Change Background - Adblock (just anyhack that says script detected!)
 </br></br>
-<b>Feel Free to Email To me about issues.(techycoder@protonmail.com</b></br>
+<b>Feel Free to Email To me about issues. techycoder@protonmail.com</b></br>
 </br>
 </br>
 <b>How To Fix Script Detected?</b></br>
