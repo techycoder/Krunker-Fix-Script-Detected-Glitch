@@ -6,7 +6,7 @@ Fixes Aimbot - Fps - Aim Range - Aim Position - Bunny Hop (slide jump) - Unlimit
 </br>
 </br>
 <b>How To Fix Script Detected?</b></br>
-https://www.youtube.com/watch?v=WlQN7BW8s74&t=76s
+https://www.youtube.com/watch?v=WlQN7BW8s74&t=0s
 
 
 
