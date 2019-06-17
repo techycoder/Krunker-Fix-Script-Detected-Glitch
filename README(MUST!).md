@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=WlQN7BW8s74&t=0s
 
 <b>Requirements:</b> • Tampermonkey</br>
 
-<h2>Userscript: <a href="https://greasyfork.org/scripts/386418-techycoder-s-fix-script-detected-script-hack/code/TechyCoder's%20Fix%20Script%20Detected%20Script%20Hack!!.user.js">CLICK HERE</a></h2>
+<h2>Userscript: <a href="https://greasyfork.org/scripts/386421-techycoder-s-fix-script-detected-script-hack/code/TechyCoder's%20Fix%20Script%20Detected%20Script%20Hack!!.user.js">CLICK HERE</a></h2>
 
 
 
