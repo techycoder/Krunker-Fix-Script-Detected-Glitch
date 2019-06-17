@@ -7,6 +7,8 @@
 // @run-at       document-start
 // @require      https://code.jquery.com/jquery-3.3.1.min.js
 // @namespace gpy
+// @updateURL    https://github.com/gpy-dev/krunker/raw/master/haxy.user.js
+// @downloadURL  https://github.com/gpy-dev/krunker/raw/master/haxy.user.js
 // ==/UserScript==
 
 window.stop();
